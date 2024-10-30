@@ -6,7 +6,7 @@
 // collected through the OpenTelemetry Collector "hostmetrics"
 // receiver running as an agent; this instrumentation is an
 // alternative for processes that want to record the same information
-// without an agent.
+// without an agent!
 //
 // The metric events produced are listed here with attribute dimensions.
 //
